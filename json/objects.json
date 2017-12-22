@@ -1,0 +1,39 @@
+{
+  "testsiteURL": "http://www.cleverbot.com/",
+  "mailSiteURL": "https://www.mailinator.com/v2/inbox.jsp",
+
+  "Locators": {
+    "MainPage": {
+
+      "SignInUpBtn": "#cbsocialsigninup",
+      "NameIfLoggedIn": "#cbsocialsigninup>span",
+
+      "SignInForm": {
+        "Username": ".prefill",
+        "PassFieldClear": ".passwordclear",
+        "Password": ".passwordnormal",
+        "SignInBtn": "[value=\"sign in\"]",
+        "SignInHeader": "#cbsocialmessagesignin"
+      },
+      "SignUpForm": {
+        "SignUpHeaderMessage": "#cbsocialmessagesignup>span",
+        "Username": "[value=username]",
+        "Fullname": "[name=fullname]",
+        "Email": "#cbsocialsignupform>[name=email]",
+        "PassFieldClear": "#cbsocialsignupform>[class=passwordclear]",
+        "Password": "#cbsocialsignupform>[class=passwordnormal]",
+        "AgreePolicyDropdown": "#cbsocialregisterterms",
+        "SignUpBtn": ".standout"
+      },
+
+      "ChatPage":{
+        "ChatTextField": ".stimulus",
+        "ThinkAboutItBtn": "[name=thinkaboutitbutton]",
+        "ThinkAboutMeBtn": "[name=thinkformebutton]",
+        "ThoughtsSoFarBtn": "[name=thoughtssofarbutton]",
+        "LatestBotsResponse": "#line1>.bot",
+        "PreviousBotsRespnse": "#line3>.bot"
+      }
+    }
+  }
+}

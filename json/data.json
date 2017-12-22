@@ -1,0 +1,16 @@
+{
+  "Name": "John",
+  "FullName": "John Doe",
+  "Password": "qwerty1234",
+  "MailSubj": "Welcome to Cleverbot",
+  "SuccessfulLinkSending": "We have sent you an email. Please click on the link to verify your account.",
+  "LinkText": "www.cleverbot.com",
+  "SuccessfulRegMessage": "account verified, please sign in",
+  "Phrases":
+    ["Hi",
+    "How are you?",
+    "Wanna some beer?",
+    "Really?",
+    "Then maybe tea?"
+  ]
+}

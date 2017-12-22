@@ -1,0 +1,13 @@
+{
+  "name": "AutoQATaskJS",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "~5.1.2",
+    "jasmine": "^2.8.0",
+    "jasmine-allure-reporter": "~1.0.1",
+    "allure-commandline": "^2.4.1",
+    "shelljs": "^0.7.8",
+    "selenium-webdriver": "^3.4.0"
+  }
+}
