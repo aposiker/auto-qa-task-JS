@@ -1,6 +1,6 @@
 # Test task with Protractor JS
 
-This project coveres a bit of automated testing for pasic features of site www.cleaverbot.com
+This project coveres a bit of automated testing for basic features of site www.cleaverbot.com
 
 ## Getting Started
 Check out code of this project to your local machine.
